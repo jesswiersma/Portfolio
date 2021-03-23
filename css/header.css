@@ -1,0 +1,25 @@
+#title {
+    text-align: left;
+    margin-top: 15%;
+    margin-left: 12%;
+    color: darkcyan;
+    font-size: 30pt;
+    font-weight: 400;
+
+}
+
+.name {
+    font-size: 50pt;
+    font-weight: 500;
+
+}
+
+h2 {
+    font-size: 30pt;
+    font-weight: 300;
+}
+
+h6 {
+    font-size: 12pt;
+    font-weight: 200;
+}

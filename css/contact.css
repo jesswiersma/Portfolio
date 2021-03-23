@@ -1,0 +1,15 @@
+#success {
+    border: 1px;
+    border-style: solid;
+
+}
+
+.form-group {
+    font-size: 16pt;
+    font-weight: 400;
+}
+
+.text-right {
+    font-size: 24pt;
+    font-weight: 300;
+}
