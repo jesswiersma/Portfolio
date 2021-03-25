@@ -23,3 +23,9 @@ h6 {
     font-size: 12pt;
     font-weight: 200;
 }
+
+.typewrite {
+    color: darkcyan;
+    position: relative;
+}
+
