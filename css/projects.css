@@ -7,6 +7,7 @@
 
 h6 {
   text-align: center;
+  color: black;
 }
 
 * {box-sizing:border-box}
@@ -19,10 +20,11 @@ h6 {
 }
 
 /* Hide the images by default */
-
+/*
 .mySlides {
   display: none;
 }
+*/
 
 
 /* Next & previous buttons */
