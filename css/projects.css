@@ -1,7 +1,12 @@
+
 .projects {
     color: black;
     text-align: center;
     font-weight: 300;
+}
+
+h6 {
+  text-align: center;
 }
 
 * {box-sizing:border-box}
@@ -14,11 +19,11 @@
 }
 
 /* Hide the images by default */
-/*
+
 .mySlides {
   display: none;
 }
-*/
+
 
 /* Next & previous buttons */
 .prev, .next {
@@ -28,7 +33,7 @@
   width: auto;
   margin-top: -22px;
   padding: 16px;
-  color: white;
+  color: black;
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
@@ -60,7 +65,6 @@
 
 /* Number text (1/3 etc) */
 .numbertext {
-  color: darkcyan;
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
@@ -100,3 +104,9 @@
   from {opacity: .4}
   to {opacity: 1}
 }
+
+.text1 , .text2 , .text3 {
+  text-align: center;
+}
+
+

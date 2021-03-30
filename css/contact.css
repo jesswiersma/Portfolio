@@ -1,20 +1,30 @@
 .form-group {
     font-size: 16pt;
-    font-weight: 400;
+    font-weight: 300;
+    color: black;
+   
 }
+
 
 .text-right {
     font-size: 24pt;
     font-weight: 300;
-    text-align: left;
+    color: black;
+    text-align: center;
 }
+
 
 #sendMessage {
     border: 1px;
     border-style: solid;
-    font-size: 16px;
+    font-size: 16px;    
 }
 
-#sendMessage a:hover {
-    background-color: lightgray;
+button:hover {
+    background-color: rgb(226, 224, 224);
+}
+
+.container {
+    align-items: center;
+    width: 40em;
 }

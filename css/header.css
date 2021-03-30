@@ -1,31 +1,46 @@
+#mainImage {
+    height: auto;
+    width: auto;
+}
 #title {
-    text-align: left;
-    margin-top: 15%;
-    margin-left: 12%;
-    color: darkcyan;
+    text-align: center;
+    margin-top: 20%;
+    margin-left: 12%; 
     font-size: 30pt;
-    font-weight: 400;
-
+    font-weight: 300;
 }
 
 .name {
     font-size: 50pt;
-    font-weight: 500;
-
+    font-weight: 400;
+    color: whitesmoke;
+    position: relative;
+    z-index: 2;
+    margin-top: -80%;
 }
 
 h2 {
-    font-size: 30pt;
+    font-size: 26pt;
     font-weight: 300;
+    color:whitesmoke;
 }
+
 
 h6 {
     font-size: 12pt;
     font-weight: 200;
 }
 
+
 .typewrite {
-    color: darkcyan;
-    position: relative;
+    color: whitesmoke;
+    border-right: .14em solid whitesmoke;
+}
+
+
+.text {
+    text-align: center;
+    margin-left: -8%;
+    margin-bottom: 33%;
 }
 
