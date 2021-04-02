@@ -20,11 +20,11 @@ h6 {
 }
 
 /* Hide the images by default */
-/*
+
 .mySlides {
   display: none;
 }
-*/
+
 
 
 /* Next & previous buttons */
@@ -94,7 +94,8 @@ h6 {
   -webkit-animation-name: fade;
   -webkit-animation-duration: 1.5s;
   animation-name: fade;
-  animation-duration: 5s;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
 }
 
 @-webkit-keyframes fade {
@@ -107,7 +108,7 @@ h6 {
   to {opacity: 1}
 }
 
-.text1 , .text2 , .text3 {
+.text1 , .text2 , .text3 , .text4 {
   text-align: center;
 }
 

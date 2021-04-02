@@ -1,7 +1,7 @@
-/* #mainImage {
+ /* #mainImage {
     height: auto;
     width: auto;
-} */
+}  */
 
 
 #title {
@@ -45,8 +45,9 @@ h6 {
     color: whitesmoke;
     border-right: .14em solid whitesmoke;
     text-align: center;
-    margin-top: -50%;
-    margin-bottom: -40%;
+    margin-top: -40%;
+    margin-bottom: -80%;
+    
 }
 
 

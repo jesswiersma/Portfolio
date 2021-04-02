@@ -2,6 +2,11 @@ body {
     color: black;
     font-family: "Open Sans";
     align-items: center;
-    
 }
+
+ /* #bodyid {
+    background-image: url("/projects/portfolio/assets/header-background2.jpeg") !important;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}  */
 
